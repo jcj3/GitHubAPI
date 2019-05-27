@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.submit {
+  margin-top: 5px;
+}
+
+.hidden {
+  display: none;
+}
+
+h2 {
+  text-align: center;
+}
+
+#results-list{
+  list-style: none;
+}
